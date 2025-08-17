@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trekking-travels/static/css/main.0402a5fd.css",
+    "main.css": "/trekking-travels/static/css/main.84a8b05c.css",
     "main.js": "/trekking-travels/static/js/main.7ca1cb0d.js",
     "static/media/victoria-falls-national.jpg": "/trekking-travels/static/media/victoria-falls-national.a6e2e56c275af9455106.jpg",
     "static/media/Logo green horizontal.svg": "/trekking-travels/static/media/Logo green horizontal.207d4e1c77faaa233906a42961af3fc7.svg",
     "index.html": "/trekking-travels/index.html",
-    "main.0402a5fd.css.map": "/trekking-travels/static/css/main.0402a5fd.css.map",
+    "main.84a8b05c.css.map": "/trekking-travels/static/css/main.84a8b05c.css.map",
     "main.7ca1cb0d.js.map": "/trekking-travels/static/js/main.7ca1cb0d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0402a5fd.css",
+    "static/css/main.84a8b05c.css",
     "static/js/main.7ca1cb0d.js"
   ]
 }
